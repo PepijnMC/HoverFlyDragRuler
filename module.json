@@ -6,12 +6,6 @@
 	"minimumCoreVersion" : "0.8.6",
 	"compatibleCoreVersion" : "9",
 	"author": "Pepijn Sietsema",
-	"dependencies": [
-		{
-			"name": "DragRuler",
-			"manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-drag-ruler/master/module.json"
-		}
-	],
 	"scripts": [
 		"scripts/hook.js"
 	],
