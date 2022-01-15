@@ -11,5 +11,5 @@ Hooks.once("dragRuler.ready", (SpeedProvider) => {
 		}
     }
 
-    dragRuler.registerModule("my-module-id", HoverFlySpeedProvider)
+    dragRuler.registerModule("hover-fly-drag-ruler", HoverFlySpeedProvider)
 })
