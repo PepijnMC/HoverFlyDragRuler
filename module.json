@@ -16,5 +16,5 @@
 		"scripts/roller.js"
 	],
 	"url": "https://github.com/PepijnMC/HoverFlyDragRuler",
-	"manifest": ""
+	"manifest": "https://raw.githubusercontent.com/PepijnMC/HoverFlyDragRuler/main/module.json"
 }
