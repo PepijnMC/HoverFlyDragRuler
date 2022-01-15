@@ -16,5 +16,5 @@
 		"scripts/hook.js"
 	],
 	"url": "https://github.com/PepijnMC/HoverFlyDragRuler",
-	"manifest": "https://raw.githubusercontent.com/PepijnMC/HoverFlyDragRuler/main/module.json"
+	"manifest": "https://github.com/PepijnMC/HoverFlyDragRuler/releases/latest/download/module.json"
 }
