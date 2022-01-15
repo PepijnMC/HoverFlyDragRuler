@@ -6,19 +6,12 @@
 	"minimumCoreVersion" : "0.8.6",
 	"compatibleCoreVersion" : "9",
 	"author": "Pepijn Sietsema",
-	"languages": [
-		{
-			"lang": "en",
-			"name": "English",
-			"path": "lang/en.json"
-		}
-	],
 	"dependencies": [
 		{
 			"name": "DragRuler",
 			"manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-drag-ruler/master/module.json"
 		}
 	],
-  "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
-  "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+	"manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
+	"download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
 }
