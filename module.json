@@ -12,6 +12,9 @@
 			"manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-drag-ruler/master/module.json"
 		}
 	],
-	"manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
-	"download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+	"scripts": [
+		"scripts/roller.js"
+	],
+	"url": "https://github.com/PepijnMC/HoverFlyDragRuler",
+	"manifest": ""
 }
